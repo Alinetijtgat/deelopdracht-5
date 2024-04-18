@@ -1,7 +1,7 @@
 # Deelopdracht-5
 
 ### Doestellingen
-Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hiernaartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten. 
+Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten. 
 ### Materiaal
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template.
 Vervolgens werd een Protopie template gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De template bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, worden er meerdere versies gemaakt. 
