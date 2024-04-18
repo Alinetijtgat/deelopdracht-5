@@ -6,7 +6,7 @@ Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimali
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template.
 Vervolgens werd een Protopie template gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De template bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, worden er meerdere versies gemaakt. 
 ### Methoden
-Via de hiërarchische taakanalyse worden de verschillende interactiekeuzes in kaart gebracht. 
+Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. 
 
 De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar. Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. Het spel wordt dus gesimuleerd. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen. 
 ### Resultaten
