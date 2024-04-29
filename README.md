@@ -13,6 +13,7 @@ Vervolgens werden er Protopie templates gemaakt. Het uiterlijk van de controller
         <td><img src="afbeeldingen deelopdracht 5/controller.png" width="30%"/></td>                                             
     </tr>
 </table>
+
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. 
 
