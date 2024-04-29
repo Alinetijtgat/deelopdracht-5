@@ -5,6 +5,14 @@ Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimali
 ### Materiaal
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template.
 Vervolgens werden er Protopie templates gemaakt. Het uiterlijk van de controller werd aangepast volgens de design requirements in deelopdracht 4. Zo werd er een zo goed mogelijke symmetrische layout gecreëerd. Als kleur voor de controller werd gekozen voor donkergroen, om in het thema van het bos te passen. De templates in protopie bevatten verschillende interacties die noodzakelijk zijn voor het spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt voor elke rol.
+<table border="1">
+    <tr>
+        <td>controller layout</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 5/controller.png" width="30%"/></td>                                             
+    </tr>
+</table>
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. 
 
